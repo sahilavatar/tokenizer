@@ -16,5 +16,9 @@ or
 ## Usage
 Just open `tokenizer.html` in your browser!
 
-## One Note
+## Note
 The pricing data is hardcoded and will need updates when Anthropic changes their pricing.
+
+## Note
+If viewing via Claude artifact and the GitHub link isn't responding, try:
+- Right-clicking and selecting "Open in new tab"
